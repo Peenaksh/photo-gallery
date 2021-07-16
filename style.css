@@ -1,0 +1,66 @@
+.menu{
+
+	text-align: left;
+	list-style: none;
+	font-family: sans-serif;
+   position: absolute;
+	top: 10px;
+	left: 390px;
+	z-index: 10;
+	cursor: pointer;
+	
+}
+
+.links{
+	float: left;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family:inherit;
+	font-size: 30px;
+	
+}
+.links:hover{
+	background-color: aqua;
+}
+img{
+	width: 400px;
+	height: 275px;
+}
+.w{
+	margin-top: 30px;
+	
+}
+.er{
+	margin-top: 1px;
+	width: auto;
+}
+body{
+	text-align: center;
+	background-color: yellow !important;
+	
+	
+}
+o{
+	margin-top: 100pxl;
+}
+.divs{
+	margin-top: 100px;
+}
+.op{
+	height: 200px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+#myCarousel{
+	height: 350px;
+	background-color: yellow;
+}
+p{
+	font-size: 25px;
+	font-size: 25px;
+}
